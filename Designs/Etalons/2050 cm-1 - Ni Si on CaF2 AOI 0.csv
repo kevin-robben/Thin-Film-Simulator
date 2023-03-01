@@ -1,0 +1,7 @@
+Row,Material,Thickness (nm),Auto Thickness,Auto Wavelength (nm),Auto Fraction
+incident,Air,1000000,0,4630,0.25
+1,Ni,125,0,4630,0.5
+2,Si,621,0,4630,0.439
+3,Ni,125,0,4630,0.25
+substrate,CaF2,1000000,0,4630,0.25
+exit,CaF2,1000000,0,4630,0.25

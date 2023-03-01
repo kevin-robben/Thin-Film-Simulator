@@ -1,0 +1,6 @@
+Row,Material,Thickness (nm),Auto Thickness,Auto Wavelength (nm),Auto Fraction
+incident,Air,1000000,0,4630,0.25
+1,Al2O3,1123.26274049419,0,4630,0.33
+2,Si,66.6126947588727,0,4630,0.03
+substrate,CaF2,3000000,0,4630,0.25
+exit,CaF2,1000000,0,4630,0.25

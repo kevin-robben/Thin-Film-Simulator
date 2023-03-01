@@ -1,0 +1,8 @@
+Row,Material,Thickness (nm),Auto Thickness,Auto Wavelength (nm),Auto Fraction
+incident,Air,1000000,0,4630,0.25
+1,SiO2,670.561908380305,1,1930,0.5
+2,Al,20,0,4630,0.5
+3,SiO2,634,0,4630,0.439
+4,Al,20,0,4630,0.439
+substrate,Ge,1000000,0,4630,0.25
+exit,Ge,1000000,0,4630,0.25
